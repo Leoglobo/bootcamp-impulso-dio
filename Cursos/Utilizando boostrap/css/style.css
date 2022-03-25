@@ -1,0 +1,28 @@
+
+.navbar {
+    background-color: aqua;
+}
+
+.sobre-mim {
+    background-color: rgba(44, 192, 44, 0.836);
+}
+
+.margin {
+    padding: 10px;
+}
+
+.foto{
+    border: 2px solid white;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: justify;
+    color: white;
+    font-family: sans-serif;
+}
+
+.bg-footer{
+    background-color: red;
+}
